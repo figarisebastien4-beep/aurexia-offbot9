@@ -1,0 +1,14 @@
+{
+  "name": "aurexia-seo-brain",
+  "version": "1.0.0",
+  "description": "Bot SEO Shopify",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
